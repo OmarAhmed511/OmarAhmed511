@@ -1,167 +1,66 @@
-<div align="center">
-  
-  <!-- Animated Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20Ahmed&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Front-End%20Developer&descAlignY=62&descSize=22" width="100%" />
+<!--
+  Legendary GitHub Profile README for Omar Ahmed
+  Designed with precision and minimalism.
+-->
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Omar%20Ahmed&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
 
-<!-- 👋 HI I'M OMAR - Interactive Intro -->
-<div align="center">
-  
-  ### 👋 Hi, I'm Omar Ahmed
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Front-End+Developer;Building+Modern+Web+Experiences;Clean+Code+%7C+Performance+%7C+UI%2FUX" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-522fdff9b7ee.gif" width="350" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World;I'm+Omar+Ahmed;Frontend+Developer;Code+Design+Innovate" alt="Typing SVG" />
+</p>
 
-</div>
+---
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### About Me
 
-<!-- 📄 ABOUT ME & RESUME TIMELINE -->
-<div align="center">
-  
-  ### 📄 About Me & Resume
+I am a passionate Software Engineer and Frontend Developer with a keen eye for pixel-perfect design and smooth user experiences. I love turning complex problems into elegant, intuitive interfaces. Whether it is crafting responsive UIs or optimizing performance, I bring ideas to life with clean, maintainable code.
 
-  <table align="center" width="90%">
-    
-    <!-- Education -->
-    <tr>
-      <td align="center" width="60">
-        <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="45" />
-      </td>
-      <td valign="middle">
-        <h4>🎓 Education</h4>
-        <b>Bachelor's Degree in Software Engineering</b><br/>
-        <sub>University — Graduated with Honors</sub><br/>
-        <i>Specialized in Front-End Development & Modern Web Technologies</i>
-      </td>
-    </tr>
-    
-    <!-- Separator -->
-    <tr><td colspan="2"><hr/></td></tr>
-    
-    <!-- Experience -->
-    <tr>
-      <td align="center" width="60">
-        <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-1cf3-4b72-93dd-30c1aedfc94f.gif" width="45" />
-      </td>
-      <td valign="middle">
-        <h4>💼 Professional Experience</h4>
-        <b>Front-End Developer</b><br/>
-        <sub>Building responsive, interactive web applications</sub><br/>
-        <i>HTML • CSS • JavaScript • Bootstrap • C# • Java</i>
-      </td>
-    </tr>
-    
-    <!-- Separator -->
-    <tr><td colspan="2"><hr/></td></tr>
-    
-    <!-- Skills Summary -->
-    <tr>
-      <td align="center" width="60">
-        <img src="https://user-images.githubusercontent.com/74038190/214644163-4f06ce25-8bae-4423-a41c-c4d4a6aad7fa.gif" width="45" />
-      </td>
-      <td valign="middle">
-        <h4>🧠 Core Competencies</h4>
-        <sub>Responsive Design • Clean Architecture • Version Control (Git/GitHub)</sub><br/>
-        <sub>Debugging & Problem Solving • UI/UX Implementation • Team Collaboration</sub>
-      </td>
-    </tr>
-    
-  </table>
+- Focus: Modern frontend architectures, component-based design, and accessibility.
+- Currently exploring: Advanced React patterns, TypeScript, and micro-frontends.
+- Ask me about: Bootstrap, CSS animations, JavaScript quirks, or Git workflows.
+- Fun fact: I debug with console.log and a cup of coffee.
 
-</div>
+---
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/workflows/images/bar.svg" width="100%">
-</div>
+### Tech Stack & Tools
 
-<!-- 🛠️ LANGUAGES & BOOTSTRAP FRAMEWORK SECTION -->
-<div align="center">
-  
-  ### 💻 Languages & Core Framework
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="45" title="HTML5" /><br/>
-        <sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="45" title="CSS3" /><br/>
-        <sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="45" title="JavaScript" /><br/>
-        <sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=cs" width="45" title="C#" /><br/>
-        <sub><b>C#</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=java" width="45" title="Java" /><br/>
-        <sub><b>Java</b></sub>
-      </td>
-      <td align="center" width="90" style="border-left: 2px solid #36BCF7;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" title="Bootstrap" /><br/>
-        <sub><b>Bootstrap</b></sub>
-      </td>
-    </tr>
-  </table>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p align="center" style="margin: 4px 0;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-</div>
+<p align="center">
+  <i>...and I am always learning more.</i>
+</p>
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- 🔧 TOOLS & DEVELOPMENT ENVIRONMENT -->
-<div align="center">
-  
-  ### ⚙️ Tools & Development Environment
-  
-  <table align="center">
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=git" width="50" title="Git" /><br/>
-        <sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=github" width="50" title="GitHub" /><br/>
-        <sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50" title="VS Code" /><br/>
-        <sub><b>VS Code</b></sub>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
+</p>
 
-</div>
-
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/workflows/images/bar.svg" width="100%">
-</div>
-
-<!-- 📊 GITHUB STATS -->
-<div align="center">
-  
-  ### 📊 GitHub Activity
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-  
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-
-</div>
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>

@@ -1,59 +1,7 @@
 <!--
   Legendary GitHub Profile README for Omar Ahmed
-  Pure CSS interactive cards - fully compatible with GitHub.
+  Pure Inline Styles - 100% Compatible with GitHub.
 -->
-
-<style>
-  /* تنسيق الشبكة الرئيسية */
-  .tech-grid {
-    display: grid;
-    gap: 18px;
-    max-width: 500px;
-    margin: 0 auto;
-  }
-
-  /* تنسيق المربع الواحد */
-  .tech-item {
-    border-radius: 16px;
-    padding: 18px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-    cursor: default;
-  }
-
-  /* التفاعل عند المرور بالماوس (ارتفاع + تكبير + ظل قوي) */
-  .tech-item:hover {
-    transform: scale(1.08) translateY(-8px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
-  }
-
-  /* تنسيق الصورة والنص داخل المربع */
-  .tech-item img {
-    width: 44px;
-    height: 44px;
-  }
-  .tech-item span {
-    font-weight: 700;
-    font-size: 15px;
-    margin-top: 8px;
-    font-family: 'Segoe UI', sans-serif;
-    letter-spacing: 0.5px;
-  }
-
-  /* الفاصل المتدرج الجميل بين الأقسام */
-  .divider-line {
-    width: 55%;
-    border: none;
-    height: 3px;
-    background: linear-gradient(to right, transparent, #36BCF7, #7952B3, transparent);
-    border-radius: 10px;
-    margin: 28px auto;
-  }
-</style>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Omar%20Ahmed&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
@@ -79,71 +27,77 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 ### Languages & Frameworks
 
 <div align="center">
-  <div class="tech-grid" style="grid-template-columns: repeat(3, 1fr);">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; max-width: 480px; margin: 0 auto;">
 
     <!-- HTML -->
-    <div class="tech-item" style="background: #E34F26;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="filter: brightness(0) invert(1);" alt="HTML5" />
-      <span style="color: white;">HTML</span>
+    <div style="background: #E34F26; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="HTML5" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">HTML</span>
     </div>
 
     <!-- CSS -->
-    <div class="tech-item" style="background: #1572B6;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="filter: brightness(0) invert(1);" alt="CSS3" />
-      <span style="color: white;">CSS</span>
+    <div style="background: #1572B6; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="CSS3" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">CSS</span>
     </div>
 
     <!-- JavaScript -->
-    <div class="tech-item" style="background: #F7DF1E;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="filter: brightness(0);" alt="JavaScript" />
-      <span style="color: #000000;">JavaScript</span>
+    <div style="background: #F7DF1E; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="filter: brightness(0);" alt="JavaScript" />
+      <span style="color: #000000; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">JavaScript</span>
     </div>
 
     <!-- C# -->
-    <div class="tech-item" style="background: #239120;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="filter: brightness(0) invert(1);" alt="C#" />
-      <span style="color: white;">C#</span>
+    <div style="background: #239120; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="C#" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">C#</span>
     </div>
 
     <!-- Java -->
-    <div class="tech-item" style="background: #ED8B00;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="filter: brightness(0) invert(1);" alt="Java" />
-      <span style="color: white;">Java</span>
+    <div style="background: #ED8B00; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="Java" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">Java</span>
     </div>
 
     <!-- Bootstrap -->
-    <div class="tech-item" style="background: #7952B3;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="filter: brightness(0) invert(1);" alt="Bootstrap" />
-      <span style="color: white;">Bootstrap</span>
+    <div style="background: #7952B3; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="Bootstrap" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">Bootstrap</span>
     </div>
 
   </div>
 </div>
 
-<!-- ====== الفاصل المتدرج ====== -->
-<hr class="divider-line" />
+---
+
+<!-- ====== الفاصل الجميل بين القسمين ====== -->
+<p align="center">
+  <hr style="width: 55%; border: none; height: 3px; background: linear-gradient(to right, transparent, #36BCF7, #7952B3, transparent); border-radius: 10px; margin: 28px auto;" />
+</p>
+
+---
 
 ### Tools & Environment
 
 <div align="center">
-  <div class="tech-grid" style="grid-template-columns: repeat(3, 1fr); max-width: 420px;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; max-width: 420px; margin: 0 auto;">
 
     <!-- Git -->
-    <div class="tech-item" style="background: #F05032;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="filter: brightness(0) invert(1);" alt="Git" />
-      <span style="color: white;">Git</span>
+    <div style="background: #F05032; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="Git" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">Git</span>
     </div>
 
     <!-- GitHub -->
-    <div class="tech-item" style="background: #181717;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: brightness(0) invert(1);" alt="GitHub" />
-      <span style="color: white;">GitHub</span>
+    <div style="background: #181717; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="GitHub" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">GitHub</span>
     </div>
 
     <!-- Visual Studio Code -->
-    <div class="tech-item" style="background: #007ACC;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="filter: brightness(0) invert(1);" alt="VS Code" />
-      <span style="color: white;">VS Code</span>
+    <div style="background: #007ACC; border-radius: 14px; padding: 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; box-shadow: 0 6px 14px rgba(0,0,0,0.2);">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="Visual Studio Code" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 6px; font-family: 'Segoe UI', sans-serif;">VS Code</span>
     </div>
 
   </div>

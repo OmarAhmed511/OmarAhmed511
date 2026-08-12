@@ -67,7 +67,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </p>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
+  <i>...and I am always learning more.</i>
 </p>
 </details>
 
@@ -76,8 +76,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </p>
 
 <p align="center">
-  <i>“"Everybody in this country should learn how to program a computer, because it teaches you how to think."”  — Steve Jobs
-</i>
+ <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
 </p>
 
 <p align="center">

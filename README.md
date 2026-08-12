@@ -23,7 +23,7 @@
 
 <!-- خط فاصل تفاعلي وجميل -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
 <!-- قسم About Me تفاعلي -->
@@ -40,7 +40,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
 <!-- قسم اللغات تفاعلي -->
@@ -54,7 +54,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
 <!-- قسم الأدوات تفاعلي -->
@@ -72,17 +72,12 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </details>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
-
-<details open>
-<summary><h3>💬 Quote</h3></summary>
-<br>
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
 </p>
-</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />

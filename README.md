@@ -1,6 +1,6 @@
 <!--
   Legendary GitHub Profile README for Omar Ahmed
-  Designed with categorized stacks, smooth dividers, and stunning interactivity.
+  Clean, interactive, and perfectly structured.
 -->
 
 <p align="center">
@@ -27,54 +27,54 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 ### Languages & Frameworks
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 500px; margin: 0 auto;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 480px; margin: 0 auto;">
 
     <!-- HTML -->
-    <div style="background: #E34F26; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(227,79,38,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="HTML5" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">HTML</span>
+    <div style="background: #E34F26; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(227,79,38,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="HTML5" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">HTML</span>
     </div>
 
     <!-- CSS -->
-    <div style="background: #1572B6; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(21,114,182,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="CSS3" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">CSS</span>
+    <div style="background: #1572B6; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(21,114,182,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="CSS3" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">CSS</span>
     </div>
 
     <!-- JavaScript -->
-    <div style="background: #F7DF1E; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(247,223,30,0.6)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" style="filter: brightness(0);" alt="JavaScript" />
-      <span style="color: #000000; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">JavaScript</span>
+    <div style="background: #F7DF1E; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(247,223,30,0.5)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" style="filter: brightness(0);" alt="JavaScript" />
+      <span style="color: #000000; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">JavaScript</span>
     </div>
 
     <!-- C# -->
-    <div style="background: #239120; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(35,145,32,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="C#" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">C#</span>
+    <div style="background: #239120; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(35,145,32,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="C#" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">C#</span>
     </div>
 
     <!-- Java -->
-    <div style="background: #ED8B00; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(237,139,0,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="Java" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">Java</span>
+    <div style="background: #ED8B00; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(237,139,0,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="Java" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">Java</span>
     </div>
 
     <!-- Bootstrap -->
-    <div style="background: #7952B3; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(121,82,179,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="Bootstrap" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">Bootstrap</span>
+    <div style="background: #7952B3; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(121,82,179,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="Bootstrap" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">Bootstrap</span>
     </div>
 
   </div>
@@ -82,9 +82,9 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 
 ---
 
-<!-- ====== الفاصل الجميل بين القسمين ====== -->
+<!-- ====== الفاصل التفاعلي بين القسمين ====== -->
 <p align="center">
-  <hr style="width: 50%; border: none; height: 3px; background: linear-gradient(90deg, transparent, #36BCF7, #7952B3, transparent); border-radius: 10px; margin: 30px auto;" />
+  <hr style="width: 55%; border: none; height: 3px; background: linear-gradient(to right, transparent, #36BCF7, #7952B3, transparent); border-radius: 10px; margin: 28px auto;" />
 </p>
 
 ---
@@ -92,30 +92,30 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 ### Tools & Environment
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 420px; margin: 0 auto;">
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; max-width: 420px; margin: 0 auto;">
 
     <!-- Git -->
-    <div style="background: #F05032; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(240,80,50,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="Git" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">Git</span>
+    <div style="background: #F05032; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(240,80,50,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="Git" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">Git</span>
     </div>
 
     <!-- GitHub -->
-    <div style="background: #181717; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(24,23,23,0.6)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="GitHub" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">GitHub</span>
+    <div style="background: #181717; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(24,23,23,0.5)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="GitHub" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">GitHub</span>
     </div>
 
     <!-- Visual Studio Code -->
-    <div style="background: #007ACC; border-radius: 20px; padding: 18px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 6px 16px rgba(0,0,0,0.15); cursor: default;"
-         onmouseover="this.style.transform='scale(1.08) translateY(-8px)'; this.style.boxShadow='0 20px 40px rgba(0,122,204,0.5)'"
-         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 6px 16px rgba(0,0,0,0.15)'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" height="44" style="filter: brightness(0) invert(1);" alt="VS Code" />
-      <span style="color: white; font-weight: 700; font-size: 15px; margin-top: 8px; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">VS Code</span>
+    <div style="background: #007ACC; border-radius: 16px; padding: 16px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: default;"
+         onmouseover="this.style.transform='scale(1.06) translateY(-6px)'; this.style.boxShadow='0 16px 32px rgba(0,122,204,0.4)';"
+         onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" style="filter: brightness(0) invert(1);" alt="Visual Studio Code" />
+      <span style="color: white; font-weight: 700; font-size: 14px; margin-top: 8px; font-family: 'Segoe UI', sans-serif;">VS Code</span>
     </div>
 
   </div>

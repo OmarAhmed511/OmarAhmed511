@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Ahmed
 
-<!--
-**OmarAhmed511/OmarAhmed511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Engineer | Front-End Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate Software Engineer and Front-End Developer who enjoys building modern, responsive, and user-friendly web applications. I love learning new technologies and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Software Engineer
+* 🌐 Front-End Developer
+* 💡 Passionate about Web Development
+* 📚 Always learning new technologies and best practices
+* 🎯 Focused on creating clean, efficient, and scalable solutions
+
+---
+
+## 🛠️ Technologies & Skills
+
+### Front-End Development
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Programming Languages
+
+* C#
+* Java
+* JavaScript
+
+### Version Control
+
+* Git
+* GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced JavaScript
+* Modern Front-End Frameworks
+* Software Architecture
+* Web Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+Feel free to explore my repositories and connect with me.
+
+⭐ Thank you for visiting my profile!

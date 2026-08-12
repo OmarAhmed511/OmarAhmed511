@@ -1,77 +1,77 @@
 <!--
-  Omar Ahmed — GitHub Profile README
-  Software Engineer | Front-End Developer
-
-  HOW TO USE:
-  1. Create a repository with the SAME name as your GitHub username
-  2. Upload this file as README.md
-  3. Replace EVERY  YOUR_USERNAME  with your real username
+  Legendary GitHub Profile README for Omar Ahmed
+  GitHub-Compatible Interactive Edition ✅
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Omar%20Ahmed&fontSize=80&fontAlignY=38&desc=Software%20Engineer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Omar Ahmed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Omar%20Ahmed&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Hello+World;I'm+Omar+Ahmed;Software+Engineer+%7C+Front-End+Developer;Code.+Design.+Innovate.;I+build+interactive+web+experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World;I'm+Omar+Ahmed;Frontend+Developer;Code+Design+Innovate" alt="Typing SVG" />
+</p>
+
+<!-- ═══════ ANIMATED DIVIDER ═══════ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+### 🧑‍💻 About Me
+
+I am a passionate Software Engineer and Frontend Developer with a keen eye for pixel-perfect design and smooth user experiences. I love turning complex problems into elegant, intuitive interfaces. Whether it is crafting responsive UIs or optimizing performance, I bring ideas to life with clean, maintainable code.
+
+- 🎯 **Focus:** Modern frontend architectures, component-based design, and accessibility
+- 🔭 **Currently exploring:** Advanced React patterns, TypeScript, and micro-frontends
+- 💬 **Ask me about:** Bootstrap, CSS animations, JavaScript quirks, or Git workflows
+- ☕ **Fun fact:** I debug with console.log and a cup of coffee
+
+<!-- ═══════ ANIMATED DIVIDER ═══════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/workflows/images/bar.svg" width="100%">
+</p>
+
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="55" title="HTML5"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="55" title="CSS3"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="55" title="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="55" title="C#"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="55" title="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="55" title="Bootstrap"/></a>
+</p>
+
+<!-- ═══════ ANIMATED DIVIDER ═══════ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+### ⚙️ Tools & Environment
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" title="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" title="GitHub"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" title="VS Code"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-Front--End_Developer-36BCF7?style=for-the-badge&labelColor=0D1117" alt="Role" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <i>...and I am always learning more.</i>
 </p>
 
+<!-- ═══════ ANIMATED DIVIDER ═══════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/workflows/images/bar.svg" width="100%">
 </p>
 
-<details open>
-<summary><h2>✦ About Me</h2></summary>
-<br>
+<!-- ═══════ QUOTE CARD (GitHub Compatible) ═══════ -->
+<table align="center"><tr><td>
 
+> ### 💡 *“Code is like humor. When you have to explain it, it is bad.”*
+> <sub>— Cory House</sub>
+
+</td></tr></table>
+
+<!-- ═══════ FOOTER ═══════ -->
 <p align="center">
-  I am a passionate <b>Software Engineer</b> and <b>Front-End Developer</b><br>
-  with a keen eye for pixel-perfect design and smooth user experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
-
-<p align="center">
-  I love turning complex problems into elegant, intuitive interfaces.<br>
-  Whether it is crafting responsive UIs or writing clean logic,<br>
-  I bring ideas to life with maintainable, interactive code.
-</p>
-
-<p align="center">
-
-|  |  |
-| :---: | :---: |
-| **Focus** | Modern front-end architecture and component-based design |
-| **Style** | Clean layouts, motion, and interfaces that feel alive |
-| **Mindset** | Every pixel and every line of code has a purpose |
-
-</p>
-
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
-</p>
-
-<details open>
-<summary><h2>✦ Developer Identity</h2></summary>
-<br>
-
-<p align="center">
-
-```bash
-$ whoami
-  Omar Ahmed
-  Software Engineer | Front-End Developer
-
-$ cat ./stack
-  languages   →  HTML   CSS   JavaScript   C#   Java
-  framework   →  Bootstrap
-  tools       →  Git   GitHub   VS Code
-
-$ echo $mission
-  "Code. Design. Innovate."

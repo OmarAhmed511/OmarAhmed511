@@ -67,7 +67,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </p>
 
 <p align="center">
-  <i>...and I am always learning more.</i>
+  <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
 </p>
 </details>
 

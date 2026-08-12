@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/FRONT--END_DEVELOPER-36BCF7?style=for-the-badge&logoColor=white" alt="Frontend Developer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 <!-- خط فاصل تفاعلي وجميل -->
 <p align="center">

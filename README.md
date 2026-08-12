@@ -24,7 +24,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 
 ---
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap&perline=6&theme=dark" alt="Languages & Frameworks" />
@@ -32,7 +32,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 
 ---
 
-### ⚙️ Tools & Environment
+###  Tools & Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="Tools" />

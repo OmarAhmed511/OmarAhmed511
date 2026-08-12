@@ -1,6 +1,6 @@
 <!--
   Legendary GitHub Profile README for Omar Ahmed
-  Enhanced with Interactivity & Custom Badges
+  Designed with precision and minimalism.
 -->
 
 <p align="center">
@@ -11,56 +11,47 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World;I'm+Omar+Ahmed;Frontend+Developer;Code+Design+Innovate" alt="Typing SVG" />
 </p>
 
-<!-- قسم الأوسمة المستوحى من الصورة -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-000000?style=for-the-badge&logoColor=white" alt="Software Engineer" />
-  <img src="https://img.shields.io/badge/FRONT--END_DEVELOPER-36BCF7?style=for-the-badge&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-1c1c1c?style=for-the-badge&labelColor=1c1c1c&color=1c1c1c" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-00B4D8?style=for-the-badge&labelColor=00B4D8&color=00B4D8" alt="Front-End Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE%20VIEWS&color=00b4d8&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- خط فاصل تفاعلي وجميل -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" alt="divider" />
 </p>
 
-<!-- قسم About Me تفاعلي -->
-<details open>
-<summary><h3>📖 About Me</h3></summary>
-<br>
+<details>
+  <summary><h3>About Me</h3></summary>
+  <br/>
 
 I am a passionate Software Engineer and Frontend Developer with a keen eye for pixel-perfect design and smooth user experiences. I love turning complex problems into elegant, intuitive interfaces. Whether it is crafting responsive UIs or optimizing performance, I bring ideas to life with clean, maintainable code.
 
-- **Focus:** Modern frontend architectures, component-based design, and accessibility.
-- **Currently exploring:** Advanced React patterns, TypeScript, and micro-frontends.
-- **Ask me about:** Bootstrap, CSS animations, JavaScript quirks, or Git workflows.
-- **Fun fact:** I debug with console.log and a cup of coffee.
+- Focus: Modern frontend architectures, component-based design, and accessibility.
+- Currently exploring: Advanced React patterns, TypeScript, and micro-frontends.
+- Ask me about: Bootstrap, CSS animations, JavaScript quirks, or Git workflows.
+- Fun fact: I debug with console.log and a cup of coffee.
+
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" alt="divider" />
 </p>
 
-<!-- قسم اللغات تفاعلي -->
-<details open>
-<summary><h3>🚀 Languages & Frameworks</h3></summary>
-<br>
+###  Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap&perline=6&theme=dark" alt="Languages & Frameworks" />
 </p>
-</details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" alt="divider" />
 </p>
 
-<!-- قسم الأدوات تفاعلي -->
-<details open>
-<summary><h3>🛠️ Tools & Environment</h3></summary>
-<br>
+###  Tools & Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="Tools" />
@@ -69,10 +60,9 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 <p align="center">
   <i>...and I am always learning more.</i>
 </p>
-</details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100%" alt="divider" />
 </p>
 
 <p align="center">

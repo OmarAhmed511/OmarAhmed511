@@ -28,7 +28,7 @@
 
 <!-- قسم About Me تفاعلي -->
 <details open>
-<summary><h3>📖 About Me</h3></summary>
+<summary><h3> About Me</h3></summary>
 <br>
 
 I am a passionate Software Engineer and Frontend Developer with a keen eye for pixel-perfect design and smooth user experiences. I love turning complex problems into elegant, intuitive interfaces. Whether it is crafting responsive UIs or optimizing performance, I bring ideas to life with clean, maintainable code.
@@ -85,7 +85,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
 </p>
 
 <p align="center">
-  <i>Let's connect, collaborate, and build something amazing together! 🚀</i>
+  <i>Let's connect, collaborate, and build something amazing together! </i>
 </p>
 
 <p align="center">

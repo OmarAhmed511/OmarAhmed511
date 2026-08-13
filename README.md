@@ -75,6 +75,23 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
+<!-- قسم التواصل -->
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-ahmad-0210b935b">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Omar Ahmed" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Let's connect, collaborate, and build something amazing together! 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
 <p align="center">
  <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
 </p>

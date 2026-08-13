@@ -84,9 +84,7 @@ I am a passionate Software Engineer and Frontend Developer with a keen eye for p
   </a>
 </p>
 
-<p align="center">
-  <i>Let's connect, collaborate, and build something amazing together! </i>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />

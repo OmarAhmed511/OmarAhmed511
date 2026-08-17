@@ -1,6 +1,6 @@
 <!--
   Legendary GitHub Profile README for Omar Ahmed
-  Enhanced with Interactivity & Custom Badges
+  Software Engineer | Frontend Developer
 -->
 
 <p align="center">
@@ -8,75 +8,113 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World;I'm+Omar+Ahmed;Frontend+Developer;Code+Design+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello+World;I'm+Omar+Ahmed;Software+Engineer;Frontend+Developer;Building+Modern+Web+Experiences;Code+%7C+Design+%7C+Innovate" alt="Typing SVG" />
 </p>
 
-<!-- قسم الأوسمة المستوحى من الصورة -->
 <p align="center">
   <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-000000?style=for-the-badge&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/FRONT--END_DEVELOPER-36BCF7?style=for-the-badge&logoColor=white" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/OPEN_TO_LEARNING-7F52FF?style=for-the-badge&logoColor=white" alt="Open to Learning" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OmarAhmed511&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- خط فاصل تفاعلي وجميل -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- قسم About Me تفاعلي -->
 <details open>
-<summary><h3>📖 About Me</h3></summary>
+<summary><h2>About Me</h2></summary>
+
 <br>
 
-I am a passionate Software Engineer and Frontend Developer with a keen eye for pixel-perfect design and smooth user experiences. I love turning complex problems into elegant, intuitive interfaces. Whether it is crafting responsive UIs or optimizing performance, I bring ideas to life with clean, maintainable code.
+I am a passionate Software Engineer and Frontend Developer who enjoys transforming ideas into modern, responsive, and user-friendly digital experiences.
 
-- **Focus:** Modern frontend architectures, component-based design, and accessibility.
-- **Currently exploring:** Advanced React patterns, TypeScript, and micro-frontends.
-- **Ask me about:** Bootstrap, CSS animations, JavaScript quirks, or Git workflows.
-- **Fun fact:** I debug with console.log and a cup of coffee.
+I care about writing clean, maintainable code, creating beautiful interfaces, and continuously improving my development skills.
+
+* <b>Focus:</b> Frontend Development and Modern Web Technologies
+* <b>Interested In:</b> UI/UX, Web Performance, Responsive Design and Clean Architecture
+* <b>Database:</b> SQL Server and MySQL
+* <b>Mindset:</b> Learn, Build, Improve, Repeat
+* <b>Development Philosophy:</b> Write clean code and always look for a better solution
+
 </details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- قسم اللغات تفاعلي -->
 <details open>
-<summary><h3>🚀 Languages & Frameworks</h3></summary>
+<summary><h2>Languages and Frameworks</h2></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap&perline=6&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap&perline=6&theme=dark" alt="Languages and Frameworks" />
 </p>
+
 </details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<!-- قسم الأدوات تفاعلي -->
 <details open>
-<summary><h3>🛠️ Tools & Environment</h3></summary>
+<summary><h2>Database</h2></summary>
+
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=2&theme=dark" alt="MySQL and SQL Server" />
 </p>
 
-<p align="center">
-  <i>...and I am always learning more.</i>
-</p>
 </details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
+<details open>
+<summary><h2>Tools and Environment</h2></summary>
+
+<br>
+
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it is bad.” – Cory House</i>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" alt="Development Tools" />
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-ahmad-0210b935b">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+<h2 align="center">Developer Mindset</h2>
+
+<p align="center">
+  <i>"Great software is not just written — it is designed, refined, and built with purpose."</i>
+</p>
+
+<p align="center">
+  <b>Build with purpose. Learn without limits. Create something meaningful.</b>
 </p>
 
 <p align="center">

@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OmarAhmed511&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -95,61 +95,16 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<h2 align="center">Developer Journey</h2>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>Foundation</b><br><br>
-      HTML<br>
-      CSS<br>
-      JavaScript
-    </td>
-
-```
-<td align="center">
-  →
-</td>
-
-<td align="center">
-  <b>Development</b><br><br>
-  C#<br>
-  Java<br>
-  Bootstrap
-</td>
-
-<td align="center">
-  →
-</td>
-
-<td align="center">
-  <b>Engineering</b><br><br>
-  SQL Server<br>
-  Git<br>
-  Software Engineering
-</td>
-
-<td align="center">
-  →
-</td>
-
-<td align="center">
-  <b>Modern Web</b><br><br>
-  Frontend<br>
-  Responsive Design<br>
-  User Experience
-</td>
-```
-
-  </tr>
-</table>
-
-<br>
+<h2 align="center">Developer Terminal</h2>
 
 <p align="center">
-  <i>Every project adds experience. Every challenge adds another layer.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=%24+whoami;%3E+Omar+Ahmed+%7C+Software+Engineer;%24+stack;%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Java;%3E+Bootstrap+%7C+SQL+Server+%7C+Git;%24+status;%3E+Building+%7C+Learning+%7C+Improving;%24+mode;%3E+Code+%7C+Create+%7C+Repeat" alt="Developer Terminal" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-2EA44F?style=for-the-badge" />
 </p>
 
 <p align="center">

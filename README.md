@@ -95,22 +95,6 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<h2 align="center">Developer Terminal</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=%24+whoami;%3E+Omar+Ahmed+%7C+Software+Engineer;%24+stack;%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+C%23+%7C+Java;%3E+Bootstrap+%7C+SQL+Server+%7C+Git;%24+status;%3E+Building+%7C+Learning+%7C+Improving;%24+mode;%3E+Code+%7C+Create+%7C+Repeat" alt="Developer Terminal" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-DEVELOPMENT-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-2EA44F?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">

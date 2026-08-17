@@ -21,9 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=OmarAhmed511&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <details open>
 <summary><h2>About Me</h2></summary>
@@ -44,9 +42,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <details open>
 <summary><h2>Languages and Frameworks</h2></summary>
@@ -59,9 +55,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <details open>
 <summary><h2>Database</h2></summary>
@@ -74,9 +68,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <details open>
 <summary><h2>UI/UX Design</h2></summary>
@@ -89,9 +81,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <details open>
 <summary><h2>Tools and Environment</h2></summary>
@@ -108,9 +98,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <h2 align="center">Connect With Me</h2>
 
@@ -120,9 +108,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<hr>
 
 <h2 align="center">Developer Mindset</h2>
 

@@ -35,7 +35,6 @@ I am a passionate Software Engineer and Frontend Developer who enjoys transformi
 I care about writing clean, maintainable code, creating beautiful interfaces, and continuously improving my development skills.
 
 * <b>Focus:</b> Frontend Development and Modern Web Technologies
-* <b>Currently Learning:</b> Advanced JavaScript, React, TypeScript and Software Engineering
 * <b>Interested In:</b> UI/UX, Web Performance, Responsive Design and Clean Architecture
 * <b>Database:</b> SQL Server
 * <b>Mindset:</b> Learn, Build, Improve, Repeat
@@ -91,45 +90,6 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 </p>
 
 </details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<h2 align="center">Currently Learning</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript&perline=2&theme=dark" alt="Currently Learning" />
-</p>
-
-<p align="center">
-  <b>Exploring modern frontend architecture and building better web experiences.</b>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />

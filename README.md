@@ -70,17 +70,6 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 <hr>
 
-<details open>
-<summary><h2>UI/UX Design</h2></summary>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma UI UX Design" />
-</p>
-
-</details>
-
 <hr>
 
 <details open>

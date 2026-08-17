@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarAhmed511&label=PROFILE%20VIEWS&color=444444&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
@@ -36,7 +32,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 
 * <b>Focus:</b> Frontend Development and Modern Web Technologies
 * <b>Interested In:</b> UI/UX, Web Performance, Responsive Design and Clean Architecture
-* <b>Database:</b> SQL Server
+* <b>Database:</b> SQL Server and MySQL
 * <b>Mindset:</b> Learn, Build, Improve, Repeat
 * <b>Development Philosophy:</b> Write clean code and always look for a better solution
 
@@ -67,7 +63,9 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="55" alt="MySQL" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="55" alt="SQL Server" />
 </p>
 
 </details>

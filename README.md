@@ -63,7 +63,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 </details>
@@ -76,7 +76,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="UI/UX Design" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma UI UX Design" />
 </p>
 
 </details>

@@ -95,20 +95,41 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<details>
-<summary><h2>Development Goals</h2></summary>
+<details open>
+<summary><h2>Engineering Principles</h2></summary>
 
 <br>
 
-* Become a highly skilled Frontend Developer
-* Master React and TypeScript
-* Build scalable and maintainable applications
-* Create modern and accessible user interfaces
-* Improve database and SQL skills
-* Contribute to open-source projects
-* Continuously learn new technologies
+<p align="center">
+  <b>01 — Simplicity</b><br>
+  Prefer simple solutions over unnecessary complexity.
+</p>
+
+<p align="center">
+  <b>02 — Precision</b><br>
+  Every detail matters when building a better experience.
+</p>
+
+<p align="center">
+  <b>03 — Consistency</b><br>
+  Clean structure and consistent patterns make software easier to evolve.
+</p>
+
+<p align="center">
+  <b>04 — Curiosity</b><br>
+  Every problem is an opportunity to understand something deeper.
+</p>
+
+<p align="center">
+  <b>05 — Craftsmanship</b><br>
+  Good code works. Great code is thoughtfully designed.
+</p>
 
 </details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />

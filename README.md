@@ -84,7 +84,7 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="UI UX Design" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="UI/UX Design" />
 </p>
 
 </details>

@@ -95,40 +95,61 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-<details open>
-<summary><h2>Engineering Principles</h2></summary>
+<h2 align="center">Developer Journey</h2>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Foundation</b><br><br>
+      HTML<br>
+      CSS<br>
+      JavaScript
+    </td>
+
+```
+<td align="center">
+  →
+</td>
+
+<td align="center">
+  <b>Development</b><br><br>
+  C#<br>
+  Java<br>
+  Bootstrap
+</td>
+
+<td align="center">
+  →
+</td>
+
+<td align="center">
+  <b>Engineering</b><br><br>
+  SQL Server<br>
+  Git<br>
+  Software Engineering
+</td>
+
+<td align="center">
+  →
+</td>
+
+<td align="center">
+  <b>Modern Web</b><br><br>
+  Frontend<br>
+  Responsive Design<br>
+  User Experience
+</td>
+```
+
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
-  <b>01 — Simplicity</b><br>
-  Prefer simple solutions over unnecessary complexity.
-</p>
-
-<p align="center">
-  <b>02 — Precision</b><br>
-  Every detail matters when building a better experience.
-</p>
-
-<p align="center">
-  <b>03 — Consistency</b><br>
-  Clean structure and consistent patterns make software easier to evolve.
-</p>
-
-<p align="center">
-  <b>04 — Curiosity</b><br>
-  Every problem is an opportunity to understand something deeper.
-</p>
-
-<p align="center">
-  <b>05 — Craftsmanship</b><br>
-  Good code works. Great code is thoughtfully designed.
-</p>
-
-</details>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <i>Every project adds experience. Every challenge adds another layer.</i>
 </p>
 
 <p align="center">

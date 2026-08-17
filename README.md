@@ -34,9 +34,11 @@ I am a passionate Software Engineer and Frontend Developer who enjoys transformi
 
 I care about writing clean, maintainable code, creating beautiful interfaces, and continuously improving my development skills.
 
+<b>I believe great software begins with a simple idea and becomes powerful through thoughtful design, clean code, and continuous improvement.</b>
+
 * <b>Focus:</b> Frontend Development and Modern Web Technologies
 * <b>Interested In:</b> UI/UX, Web Performance, Responsive Design and Clean Architecture
-* <b>Database:</b> SQL Server and MySQL
+* <b>Database:</b> SQL Server
 * <b>Mindset:</b> Learn, Build, Improve, Repeat
 * <b>Development Philosophy:</b> Write clean code and always look for a better solution
 
@@ -67,7 +69,22 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=2&theme=dark" alt="MySQL and SQL Server" />
+  <img src="https://skillicons.dev/icons?i=sqlserver&theme=dark" alt="SQL Server" />
+</p>
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+<details open>
+<summary><h2>UI/UX Design</h2></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="UI UX Design" />
 </p>
 
 </details>

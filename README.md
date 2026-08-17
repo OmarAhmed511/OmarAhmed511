@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-000000?style=for-the-badge&logoColor=white" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-1E293B?style=for-the-badge&logoColor=white" alt="Software Engineer" />
   <img src="https://img.shields.io/badge/FRONT--END_DEVELOPER-36BCF7?style=for-the-badge&logoColor=white" alt="Frontend Developer" />
   <img src="https://img.shields.io/badge/OPEN_TO_LEARNING-7F52FF?style=for-the-badge&logoColor=white" alt="Open to Learning" />
 </p>
@@ -67,8 +67,6 @@ I care about writing clean, maintainable code, creating beautiful interfaces, an
 </p>
 
 </details>
-
-<hr>
 
 <hr>
 
